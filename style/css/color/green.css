@@ -1,0 +1,121 @@
+::selection {
+    background: #b4eee1; /* Safari */
+    color: #2f2f2f;
+}
+::-moz-selection {
+    background: #b4eee1; /* Firefox */
+    color: #2f2f2f;
+}
+.lg-outer .lg-item:after,
+.tp-loader.spinner {
+    border-left: 6px solid #05c69a;
+}
+a {
+    color: #05c69a;
+}
+
+a.line:hover {
+    border-bottom: 1px solid #05c69a;
+}
+a:hover,
+a:focus {
+    color: #05c69a;
+}
+.nocolor:hover,
+.email-link:hover {
+    color: #05c69a
+}
+.post-title a:hover {
+    color: #05c69a
+}
+.meta a:hover,
+.more:hover {
+    color: #05c69a
+}
+.color-wrapper {
+    background: #05c69a
+}
+footer a:hover {
+    color: #05c69a
+}
+
+ul.circled li:before {
+    color: #05c69a;
+}
+.btn.btn-bg {
+    background: #05c69a;
+}
+.btn-bg:hover,
+.btn-bg:focus,
+.btn-bg:active,
+.btn-bg.active {
+    background: #06b78f;
+}
+.navbar .nav > li.current > a,
+.navbar .nav > li > a:hover,
+.inverse-wrapper .nav > li.current > a,
+.inverse-wrapper .navbar-nav > li > a:hover {
+    color: #05c69a
+}
+.sidebox a:not(.btn):hover {
+    color: #05c69a
+}
+.sidebar .meta a:hover,
+footer .meta a:hover {
+    color: #05c69a
+}
+footer .widget .post-list li a:hover {
+    color: #05c69a
+}
+.sidebox .post-list li a:hover {
+    color: #05c69a
+}
+#comments .info h4 a:hover {
+    color: #05c69a
+}
+.social li a:hover {
+    color: #05c69a
+}
+.isotope-filter ul li a:hover,
+.isotope-filter ul li a.active {
+    color: #05c69a;
+}
+.nav-tabs > li > a:hover {
+    color: #05c69a;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+    color: #05c69a;
+}
+.nav-tabs > li.active > a:after {
+    border-bottom: 2px solid #05c69a;
+}
+.panel-group .panel-heading .panel-title:hover {
+    color: #05c69a;
+}
+.tooltip-inner {
+    background-color: #05c69a;
+}
+.tooltip.top .tooltip-arrow,
+.tooltip.top-left .tooltip-arrow,
+.tooltip.top-right .tooltip-arrow {
+    border-top-color: #05c69a
+}
+.tooltip.right .tooltip-arrow {
+    border-right-color: #05c69a
+}
+.tooltip.left .tooltip-arrow {
+    border-left-color: #05c69a
+}
+.tooltip.bottom .tooltip-arrow,
+.tooltip.bottom-left .tooltip-arrow,
+.tooltip.bottom-right .tooltip-arrow {
+    border-bottom-color: #05c69a
+}
+.progress.plain .bar {
+    background: #05c69a !important;
+}
+.panel.pricing.active::after {
+    border: 3px solid #05c69a !important;
+}
